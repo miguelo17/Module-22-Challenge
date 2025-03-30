@@ -16,4 +16,4 @@ We measured the runtime before and after caching to compare the performance impr
 
 ## Working with Temporary Tables and Views:
 Creating Temporary Tables:
-We created temporary tables to hold data in memory for efficient queries
+We created temporary tables to hold data in memory for efficient queries.
